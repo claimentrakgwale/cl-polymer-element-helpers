@@ -1,6 +1,6 @@
 {
   "name": "cl-polymer-element-helpers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Claiment Polymer custom elements helper functions and methods",
   "main": "cl-create-element-template.js",
   "scripts": {
